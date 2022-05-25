@@ -1,0 +1,5 @@
+{
+	"ip":"LDsmp123xDik.aternos.me
+	"port": "62885
+	"name": ldsmplucky
+}
